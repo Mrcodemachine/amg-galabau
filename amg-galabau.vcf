@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Marquez Gonzalez;Antonio;;;AMG-GalaBau
+FN;CHARSET=UTF-8:Antonio Marquez Gonzalez
+ORG;CHARSET=UTF-8:Garten Lanschafts Bau;
+ORG;CHARSET=UTF-8:AMG_GalaBau;Inhaber
+TITLE;CHARSET=UTF-8:Handwerker
+PHOTO;VALUE=URL;TYPE=JPEG:https://codemachine.de/images/toni.jpg
+URL;WORK:https://amg-galabau.de
+EMAIL;type=WORK;type=PREF:amg_galabau@icloud.com
+TEL;type=HOME;VOICE:0049 177 3610853
+TEL;type=MOBIL;VOICE:0049 2162 14 70 863
+END:VCARD

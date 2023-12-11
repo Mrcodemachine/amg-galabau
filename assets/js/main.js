@@ -3,6 +3,18 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+function makeAppointment(){
+	window.open("https://calendly.com/amg_galabau/erst-kontakt", "_blank");
+}
+function downloadVcard(){	
+  	var element = document.createElement('a');
+	element.setAttribute('href', './amg-galabau.vcf' );
+	element.setAttribute('download', "amg-galabau.vcf");
+	element.style.display = 'none';
+	document.body.appendChild(element);
+	element.click();
+	document.body.removeChild(element);  
+}
 
 (function($) {
 
