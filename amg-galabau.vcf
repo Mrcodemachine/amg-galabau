@@ -8,7 +8,7 @@ ADR;CHARSET=UTF-8:;;Büssemfeld 35;Viersen;NRW;41748;Deutschland
 TITLE;CHARSET=UTF-8:Garten und Lanschafts-Bau
 PHOTO;VALUE=URL;TYPE=JPEG:https://amg-galabau.vercel.app/images/me.jpg
 URL;WORK:https://amg-galabau.de
-URL;HOME:https://amg-galabau.vercel.app//
+URL;HOME:https://amg-galabau.vercel.app
 EMAIL;type=WORK;type=PREF:amg_galabau@icloud.com
 TEL;type=MOBIL;VOICE:0049 177 3610853
 TEL;type=HOME;VOICE:0049 2162 14 70 863
